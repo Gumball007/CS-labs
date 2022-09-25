@@ -13,7 +13,7 @@
 :muscle:  Teacher [**Drumea Vasile**](https://github.com/DrVasile).
 
 ## Labs
-:heavy_check_mark: Laboratory work 1
+[:heavy_check_mark: Laboratory work 1](https://github.com/Gumball007/CS-labs/tree/main/lab1)
 
 ## Contact
 
