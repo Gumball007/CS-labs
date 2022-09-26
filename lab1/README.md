@@ -2,6 +2,8 @@
 
 ## Course: Cryptography & Security
 
+### FAF - 203
+
 ### Author: Ana Corolețchi
 
 ----
@@ -27,7 +29,7 @@ Nowadays, the only reason to use a **classical cipher** is for entertainment. Ev
 
 ## Implementation description
 
-For every folder which contains the cipher, you can find the input `input.txt`, so the input will be genereat from the file. Same with the output, it will be generated in the `outputFile.txt`. The decrypted message, which must be the same as the original one, u'll find in the `checkDecrypt.txt` file.  
+For every folder which contains the cipher, you can find the input `input.txt`, so the input will be genereat from the file. Same with the output, it will be generated in the `outputFile.txt`. The decrypted message, which must be the same as the original one, u'll find in the `checkDecrypt.txt` file. Implementation was written in **Python**.
 </br>
 
 ### Affine Cipher
