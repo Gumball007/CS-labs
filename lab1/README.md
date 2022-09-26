@@ -99,15 +99,16 @@ def encrypt(self, msg):
         pairs = PlayfairCipher.prepare(msg)
         return ' '.join(self.transform(pair, 1) for pair in pairs)
 
-    def decrypt(self, msg):
-        msg = msg.upper()
-        PlayfairCipher.check_input(msg)
-        if not re.match(r'^([A-Z]{2}(\s)?)+$', msg):
-            raise ValueError(
-                "The inputted message isn't a valid Playfair cipher message")
-        msg = re.findall('[A-Z]{2}', msg)
-        def rule1(x): return x if x[1] != 'X' else x[0]
-        return ' '.join(rule1(self.transform(s, -1)) for s in msg)
+def decrypt(self, msg):
+    msg = msg.upper()
+    PlayfairCipher.check_input(msg)
+    if not re.match(r'^([A-Z]{2}(\s)?)+$', msg):
+        raise ValueError(
+            "The inputted message isn't a valid Playfair cipher message")
+    msg = re.findall('[A-Z]{2}', msg)
+    def rule1(x): return x if x[1] != 'X' else x[0]
+    return ' '.join(rule1(self.transform(s, -1)) for s in msg)
+
 ```
 
 </br>
