@@ -158,6 +158,4 @@ def decrypt(cipher, key):
 
 ## Conclusions
 
-----
-
 For this laboratory work I found out how the ciphers work. Even if they are old and not used today, they are the basis of the modern cryptohgraphy. For me, the Playfair Cipher was the most hard to implement. On the other hand, the Caesar Cipher was the easiest one to implement.
