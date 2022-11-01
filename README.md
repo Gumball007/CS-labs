@@ -15,6 +15,10 @@
 ## Labs
 [:heavy_check_mark: Laboratory work 1](https://github.com/Gumball007/CS-labs/tree/main/lab1)
 
+[:heavy_check_mark: Laboratory work 2](https://github.com/Gumball007/CS-labs/tree/main/lab2)
+
+[:heavy_check_mark: Laboratory work 3](https://github.com/Gumball007/CS-labs/tree/main/lab3)
+
 ## Contact
 
 :mailbox:  My email: `ana.coroletchi@isa.utm.md`
