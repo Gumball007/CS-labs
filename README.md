@@ -13,11 +13,9 @@
 :muscle:  Teacher [**Drumea Vasile**](https://github.com/DrVasile).
 
 ## Labs
-[:heavy_check_mark: Laboratory work 1](https://github.com/Gumball007/CS-labs/tree/main/lab1)
+[:heavy_check_mark: Laboratory works](https://github.com/Gumball007/CS-labs/tree/main/lab_works)
 
-[:heavy_check_mark: Laboratory work 2](https://github.com/Gumball007/CS-labs/tree/main/lab2)
-
-[:heavy_check_mark: Laboratory work 3](https://github.com/Gumball007/CS-labs/tree/main/lab3)
+[:heavy_check_mark: Laboratory reports](https://github.com/Gumball007/CS-labs/tree/main/reports)
 
 ## Contact
 
