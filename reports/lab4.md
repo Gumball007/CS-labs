@@ -111,7 +111,7 @@ Assymetric encryption was done using `RSA` algorithm. Also, ther is another libr
 
         return encrypted, private_key
 
-    @staticmethod
+@staticmethod
     def assymetric_decryption(encrypted_message, private_key):
         original_message = private_key.decrypt(
             encrypted_message,
