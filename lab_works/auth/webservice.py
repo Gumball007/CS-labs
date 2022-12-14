@@ -62,7 +62,6 @@ def login_2fa_form():
         flash("You have supplied an invalid 2FA token!", "danger")
         return redirect(url_for("login_2fa"))
 
-
 # running flask server
 if __name__ == "__main__":
     webserver.run(debug=True)

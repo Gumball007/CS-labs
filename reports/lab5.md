@@ -402,3 +402,5 @@ Everything is fine and it's working!
 For me, this laboratory work was the most interesting one, because I made it a visual way, it's kinda "touchable and real". Authentication is a part of our lives so it'a a must. 2FA is a secure way if we want to secure our accounts, but let's not forget the biometrics.
 
 I highlighted the importance of implementing 2FA into applications and integrated two-factor authentication using Twilio and PyOTP into a Flask application.
+
+This laboratory work helps us to figure how the things are working from the inseide perspective.
